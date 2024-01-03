@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    font-family: "ltr-slab-extended-variable", sans-serif; 
+background-color:#39FF14;
+}
+h1 {
+    text-align: center;
+    font-weight: 1500;
+    font-size: 66px;
+    font-family: "bc-mikser", sans-serif;
+}
+h2{
+text-align: right;
+font-family: "bc-mikser" , sans-serif;
+font-size: medium;
+}

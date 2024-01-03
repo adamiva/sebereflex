@@ -1,0 +1,21 @@
+body{
+    text-align:;
+    font-family: "ltr-slab-extended-variable", sans-serif; 
+background-color:#39FF14;
+}
+h1 {
+    text-align: center;
+    font-weight: 1500;
+    font-size: 66px;
+    font-family: "bc-mikser", sans-serif;
+}
+.img{ position: relative;
+left: 0;}
+.text-center{ text-align: center;
+    }
+    h3 {
+        text-align: center;
+        font-family: "dilemma-variable", sans-serif;
+        font-size: 30px;
+        font-variation-settings: "ital" 0, "wght" 900;
+    }
